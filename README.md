@@ -1,7 +1,8 @@
 # Mine-Escape-Game
 Mine Escape Game with Replit  
   
-prompt: 
+prompt:  
+  
 I want to build a mine-stepping game.  
 This game has 3 levels. The first level has n*n grids, and n grids contain bombs.   
 Set n=5 for the first level. n decreases by 1 with each level. Each level requires pressing 3 grids.   
