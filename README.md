@@ -1,5 +1,6 @@
 # Mine-Escape-Game
-Mine Escape Game with Replit
+Mine Escape Game with Replit  
+  
 prompt: 
 I want to build a mine-stepping game.  
 This game has 3 levels. The first level has n*n grids, and n grids contain bombs.   
